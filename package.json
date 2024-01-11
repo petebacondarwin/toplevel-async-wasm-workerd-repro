@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "toplevel-async-wasm-workerd-repro",
+  "version": "1.0.0",
+  "description": "This demonstrates https://github.com/cloudflare/workers-sdk/issues/4706",
+  "devDependencies": {
+    "workerd": "^1.20231218.0"
+  }
+}
